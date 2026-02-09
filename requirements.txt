@@ -1,0 +1,2 @@
+# Requires: phantom-duration
+# (Not available on PyPI)
